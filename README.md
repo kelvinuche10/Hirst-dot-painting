@@ -5,5 +5,5 @@ The modules are:
 > > these modules come with python
 > ### colorgram
 > > This module does not come with python but can be downloaded using this command;
-` pip install colorgram.py
+` pip install colorgram.py `
 
